@@ -1,3 +1,34 @@
+# Hooks
+## Projetinho onde podemos ultilizar e entender sobre os hooks e seus respectivos deveres..
+
+# Hook UseState
+## Estado em componentes funcionais!
+
+# Hook UseEffect
+## Permite executar efeitos colaterais em componentes funcionais!
+
+# Hook UseRef
+## Retorna um objeto mutável com a propriedade .current!
+
+# Hook UseMemo
+## Retorna um valor memoizado!
+
+# Hook UseCallback
+## Retorna uma função memoizada!
+
+# Hook UseContext
+## Aceita um objeto de contexto e retorna o valor atual do contexto!
+
+# Hook UseReducer
+## Uma outra forma de ter estado em componentes funcionais!
+
+# My Hook
+## Vamos aprender como criar o nosso próprio Hook!
+
+
+![Hook](https://user-images.githubusercontent.com/74872760/196701006-509944a6-c7b3-4d47-bb65-f1772a0739b0.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
